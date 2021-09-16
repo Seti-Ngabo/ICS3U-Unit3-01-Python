@@ -12,7 +12,7 @@ def main():
     second_number = int(input("Enter second number (integer): "))
 
     # process
-    answer = first_number + second_number 
+    answer = first_number + second_number
 
     # output
     print("{0} + {1} = {2} ".format(first_number, second_number, answer))
