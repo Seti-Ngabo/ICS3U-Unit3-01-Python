@@ -2,7 +2,7 @@
 //
 // Created by: Seti ngabo
 // Created on: Sept 2021
-// This program shows the equation and answer
+// This program shows the equation
 // with user input
 
 #include <iostream>
